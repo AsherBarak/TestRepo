@@ -1,1 +1,2 @@
 test file
+Changes in branch 2
